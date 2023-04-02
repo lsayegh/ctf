@@ -1,2 +1,2 @@
-# ctf
-CTF related tools and writeups
+# CTF
+Write-ups of CTF challenges completed and tools
